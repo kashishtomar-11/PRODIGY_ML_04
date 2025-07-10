@@ -53,7 +53,18 @@ leapGestRecog/
 - Achieved Accuracy: ~97%
 - Sample Visualization:
 
-![Sample Gesture](sample_gestures/sample_00.png)
+📷 Sample Predictions:
+
+Here are some sample gesture predictions by the SVM model:
+
+| Actual vs Predicted | Image |
+|---------------------|-------|
+| 0 → 0 | ![](sample_gestures/sample_00.png) |
+| 1 → 1 | ![](sample_gestures/sample_01.png) |
+| 2 → 2 | ![](sample_gestures/sample_02.png) |
+| 3 → 3 | ![](sample_gestures/sample_03.png) |
+| 4 → 4 | ![](sample_gestures/sample_04.png) |
+
 
 📂 Files Included
 
